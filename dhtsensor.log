@@ -1,0 +1,10 @@
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"This will be printed to the console, since 'info' is a log level above 'debug'","time":"2020-02-27T02:23:19.585Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":50,"msg":"This will also be written to a log file, since the file stream is for 'error' and higher","time":"2020-02-27T02:23:19.588Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 24.700000762939453°C, humidity: 33.79999923706055%","time":"2020-02-27T02:23:20.619Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 24.700000762939453°C, humidity: 33.79999923706055%","time":"2020-02-27T02:23:21.594Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 24.700000762939453°C, humidity: 33.79999923706055%","time":"2020-02-27T02:23:22.595Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 24.899999618530273°C, humidity: 34.5%","time":"2020-02-27T02:23:23.621Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 24.899999618530273°C, humidity: 34.5%","time":"2020-02-27T02:23:24.598Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 34.743142183247364°C, humidity: 39.5%","time":"2020-02-27T02:23:25.598Z","v":0}
+{"name":"dht","hostname":"raztaz","pid":1711,"level":30,"msg":"temp: 12.894421118530273°C, humidity: 10.5%","time":"2020-02-27T02:23:26.598Z","v":0}
+
